@@ -22,6 +22,8 @@ C
 N
 src/ExercicioUnicamp/Main.java,c\d\cde5de60af8f5ba58fb5a3e870c037be97b79482
 A
-src/UFC/Main.java,f\d\fd396d0e8f1da5b11a5c5c00d2d6a2e2c80893c2
-A
 src/UFC/Luta.java,e\b\ebc48780e71b246e3d6c43ee6ff7774575e74431
+A
+src/UFC/Main.java,f\d\fd396d0e8f1da5b11a5c5c00d2d6a2e2c80893c2
+J
+Orientação a objetos.iml,1\6\16a914b793608e0ab8228eea37e86c08d7b08f30
